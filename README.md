@@ -1,4 +1,4 @@
 # Todo App
 
-Live Link OF Project [LIVE](https://github.com/facebook/create-react-app).
+Live Link OF Project [ Go-LIVE](https://todosoft.netlify.app/).
 
